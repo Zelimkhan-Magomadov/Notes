@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/notesDestination">
+    <action
+        android:id="@+id/action_to_noteFragment"
+        app:destination="@id/noteDestination" />
+
+    <fragment
+        android:id="@+id/notesDestination"
+        android:name="zelimkhan.magomadov.notes.ui.notes.NotesFragment"
+        android:label="@string/notes_destination_title"
+        tools:layout="@layout/fragment_notes_list" />
+    <fragment
+        android:id="@+id/archiveDestination"
+        android:name="zelimkhan.magomadov.notes.ui.archive.ArchiveFragment"
+        android:label="@string/archive_destination_title"
+        tools:layout="@layout/fragment_notes_list" />
+    <fragment
+        android:id="@+id/trashDestination"
+        android:name="zelimkhan.magomadov.notes.ui.trash.TrashFragment"
+        android:label="@string/trash_destination_title"
+        tools:layout="@layout/fragment_notes_list" />
+    <fragment
+        android:id="@+id/noteDestination"
+        android:name="zelimkhan.magomadov.notes.ui.note.NoteFragment"
+        android:label="@string/note_destination_title"
+        tools:layout="@layout/fragment_note">
+        <argument
+            android:name="noteId"
+            android:defaultValue="0L"
+            app:argType="long" />
+    </fragment>
+</navigation>

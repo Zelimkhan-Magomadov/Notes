@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@id/notesDestination"
+        android:checkable="true"
+        android:icon="@drawable/ic_notes"
+        android:title="@string/notes_destination_title" />
+
+    <group android:id="@id/group_divider">
+        <item
+            android:id="@id/archiveDestination"
+            android:checkable="true"
+            android:icon="@drawable/ic_archive_outline"
+            android:title="@string/archive_destination_title" />
+
+        <item
+            android:id="@id/trashDestination"
+            android:checkable="true"
+            android:icon="@drawable/ic_delete_outline"
+            android:title="@string/trash_destination_title" />
+    </group>
+</menu>

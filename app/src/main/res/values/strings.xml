@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    // Destinations
+    <string name="notes_destination_title">Notes</string>
+    <string name="archive_destination_title">Archive</string>
+    <string name="trash_destination_title">Trash</string>
+    <string name="note_destination_title">Note</string>
+
+    // Menu - Notes toolbar
+    <string name="menu_switch_to_list_view">Switch to list view</string>
+    <string name="menu_switch_to_grid_view">Switch to grid view</string>
+    <string name="menu_empty_trash">Empty Trash</string>
+
+    // Notes list
+    <string name="create_new_note_description">Create new note</string>
+    <string name="notes_list_empty_description">Notes list empty</string>
+    <string name="empty_notes_list">List of notes is empty</string>
+    <string name="empty_notes_list_archive">Your archived notes appear here</string>
+    <string name="empty_notes_list_trash">No notes in Trash</string>
+
+    // Swipe actions
+    <string name="delete">Delete</string>
+    <string name="archive">Archive</string>
+    <string name="unarchive">Unarchive</string>
+    <string name="restore">Restore</string>
+
+    // Note
+    <string name="note_title_hint">Title</string>
+    <string name="note_text_hint">Text</string>
+</resources>

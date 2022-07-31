@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="note_margin">4dp</dimen>
+    <dimen name="swipe_text_size">18sp</dimen>
+    <dimen name="swipe_icon_margin">16dp</dimen>
+    <dimen name="swipe_background_corner_radius">8dp</dimen>
+    <dimen name="swipe_background_corner_smoothing">12dp</dimen>
+    <dimen name="swipe_text_margin">4dp</dimen>
+</resources>
