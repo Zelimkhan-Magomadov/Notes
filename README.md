@@ -1,7 +1,7 @@
 # Notes - Android App
 
 <p align="center">
-      <img src="https://i.ibb.co/fS1kSDX/empty-notes-list.png" width="250">
+      <img src="https://i.ibb.co/fS1kSDX/empty-notes-list.png" width="200">
 </p>
 
 ## Описание
