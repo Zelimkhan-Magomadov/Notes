@@ -45,11 +45,8 @@ Android 5.0 (API 21) и выше
 - **Material UI**: Применяется для создания современного и привлекательного дизайна.
 - **Clean Architecture + MVVM**: Используется чистая архитектура и архитектурный паттерн MVVM для организации кода и логики приложения.
 
-## Установка
-
-```
-git clone https://github.com/Zelimkhan-Magomadov/Notes.git
-```
+## Установить
+[Скачать APK](https://github.com/Zelimkhan-Magomadov/Notes/releases/download/v1.0/notes.apk)
 
 ## Связь
 - [Telegram](https://t.me/android_kotlin_programmer)
