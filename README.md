@@ -51,3 +51,10 @@ Android 5.0 (API 21) и выше
 ## Связь
 - [Telegram](https://t.me/android_kotlin_programmer)
 - [Email](mailto:zelimkhan.m21@gmail.com)
+
+## Использованные ресурсы
+<a href="https://www.flaticon.com/ru/free-icons/" title="почта иконки">Почта иконки от Flat Icons - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/sheet" title="sheet icons">Sheet icons created by Secret Studio - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/garbage" title="garbage icons">Garbage icons created by Freepik - Flaticon</a>
